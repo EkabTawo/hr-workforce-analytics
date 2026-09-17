@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Environment variables
+.envgit status --short
+
+# Raw datasets
+data/raw/*.xlsx
